@@ -1,0 +1,28 @@
+name: Tagtest
+favicon: null
+layout_spectrum: 0.49577
+typography_spectrum: 0.69941
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7884752587415278
+  lightness: 0.85602887859568
+  saturation: 0.23796183709055185
+  rhythmicContrast: 0.49666870199143887
+purpose: []
